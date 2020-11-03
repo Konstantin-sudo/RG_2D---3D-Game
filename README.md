@@ -9,6 +9,6 @@
 3D Game "Island Defender":
   - Written in Java
   - Used JavaFx library for graphics
-  - Player is cannon defending island from attacking ships that are coming in waves
+  - Player can play as cannon defending island from attacking ships that are coming in waves
   - Support only one player vs CPU
   
